@@ -72,7 +72,7 @@
         </constraints>
         <properties>
           <font name="72 Monospace" size="18" style="0"/>
-          <text value="Adress"/>
+          <text value="Address"/>
         </properties>
       </component>
       <component id="5fdf6" class="javax.swing.JLabel">
@@ -113,7 +113,7 @@
           <font name="72 Monospace" size="18" style="0"/>
         </properties>
       </component>
-      <component id="a3ea7" class="javax.swing.JTextField" binding="tfAdress">
+      <component id="a3ea7" class="javax.swing.JTextField" binding="tfAddress">
         <constraints>
           <grid row="4" column="1" row-span="1" col-span="2" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
             <preferred-size width="150" height="-1"/>
